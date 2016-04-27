@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LunaAndBella]]></title>
-        <description><![CDATA[LunaAndBella]]></description>
+        <title><![CDATA[Luna and Bella]]></title>
+        <description><![CDATA[Luna and Bella]]></description>
         <link>https://thegrid.ai/lunaandbella/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 15:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 15:42:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lunaandbella/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Mom at 16 weeks. 4/24/16</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f1ed2b-5615-4828-84f0-806cff4abf8a.jpg">]]></description>
             <link>https://thegrid.ai/lunaandbella/mom-at-16-weeks-42416/index.html</link>
             <guid isPermaLink="false">fe021109-d97b-4e9d-9fa4-5627bc9611ff</guid>
-            <pubDate>Wed, 27 Apr 2016 15:39:31 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 15:41:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
