@@ -1,0 +1,28 @@
+name: LunaAndBella
+favicon: null
+layout_spectrum: 0.9190508571919054
+typography_spectrum: 0.43170593306422234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8337847953662276
+  lightness: 0.005425180308520794
+  saturation: 0.8955605151131749
+  rhythmicContrast: 0.8326907143928111
+purpose: []
